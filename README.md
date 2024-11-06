@@ -1,9 +1,9 @@
 
 - ## Hi there 👋, I'm Maheswari 
-[![](https://visitcount.itsvg.in/api?id=SairamGolla918&icon=10&color=1)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Maheswari158&icon=10&color=1)](https://visitcount.itsvg.in)
 
 # 💫 About Me:
-👨🏻‍💻 I’m currently working on Java Full Stack Development.<br>🧑‍🤝‍🧑 I’m looking to collaborate with Aspiring Techies.<br>🤝 I’m looking for help with Industry Mentors.<br>🌱 I’m currently learning Spring Boot | React.<br>💭 Ask me about Java.<br> 📫 How to reach me *gollasairam918@gmail.com*
+👨🏻‍💻 I’m currently working on Java Full Stack Development.<br>🧑‍🤝‍🧑 I’m looking to collaborate with Aspiring Techies.<br>🤝 I’m looking for help with Industry Mentors.<br>🌱 I’m currently learning Spring Boot | React.<br>💭 Ask me about Java.<br> 📫 How to reach me *maheswariyellapu@gmail.com*
 <br>😁 Fun fact I am Crazy Curious.
 
 
@@ -12,7 +12,6 @@
 
 ## 👨🏻‍💻Coding:
 [![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/maheswariyellapu)
-[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/u/SairamGolla918)
 
 ## 📋Languages:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -31,7 +30,7 @@
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 ## 🕓Version Control:
-[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SairamGolla918/SairamGolla918/edit/main/README.md)
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Maheswari158/Maheswari158/edit/main/README.md)
 
 
 ## ☁Hosting:
@@ -52,13 +51,13 @@
 
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=SairamGolla918&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=Maheswari158&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=SairamGolla918&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=Maheswari158&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 <!---
 Maheswari158/Maheswari158 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
